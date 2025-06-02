@@ -21,7 +21,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: " por que  você acha isso?",
+        enunciado: " por que você acha isso?",
         alternativas: [
             {
                 texto: "pode atrapalhar.",
